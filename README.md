@@ -2,6 +2,8 @@
 
 electron screen recorder made with the help of youtube tutorial with some minor changes
 
+![Screenshot](./screenshot.png)
+
 ## try locally
 
 if you want to try it locally you can run:
